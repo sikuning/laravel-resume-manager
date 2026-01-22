@@ -1,3 +1,5 @@
+See details : https://sikuning.github.io/laravel-resume-manager/
+
 # Resume Management
 
 Laravel Resume Management is a multi-user profile and portfolio system.  
